@@ -10,7 +10,11 @@ app = FastAPI()
 
 # Origins that are allowed to make requests to this API
 # In production, replace ["*"] with your actual frontend domain
-origins = ["*"]
+origins = [
+    "http://localhost:3000",
+    "http://localhost:5173",
+    "https://hrms-lite-by-faaiz.vercel.app",  # Your Vercel URL
+]
 
 app.add_middleware(
     CORSMiddleware,
