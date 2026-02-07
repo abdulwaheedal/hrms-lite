@@ -1,4 +1,6 @@
-# HRMS Lite
+# [HRMS lite](https://hrms-lite-by-faaiz.vercel.app/)
+
+[**Backend API (Render)**](https://hrms-lite-b2hr.onrender.com/docs)
 
 A lightweight Human Resource Management System built with modern web technologies. This application provides essential HR functionality including employee management and attendance tracking with a responsive, intuitive interface.
 
