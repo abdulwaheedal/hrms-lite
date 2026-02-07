@@ -463,12 +463,6 @@ Contributions are welcome. Please follow these guidelines:
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
 ## Support
 
 For issues, feature requests, or questions:
