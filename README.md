@@ -2,6 +2,10 @@
 
 A lightweight Human Resource Management System built with modern web technologies. This application provides essential HR functionality including employee management and attendance tracking with a responsive, intuitive interface.
 
+### NOTE
+
+The backend is hosted on a free tier. Please allow ~1 minute for the initial load if the service has been inactive.
+
 ---
 
 ## Overview
