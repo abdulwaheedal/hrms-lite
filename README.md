@@ -386,7 +386,7 @@ npm run build
 3. Set environment variables in Vercel dashboard
 4. Deploy with automatic CI/CD
 
-### Heroku / Railway (Backend)
+### Render (Backend)
 
 1. Set environment variables
 2. Configure Python buildpack
