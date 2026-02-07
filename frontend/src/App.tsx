@@ -1,6 +1,6 @@
 // File: frontend/src/App.tsx
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Navbar from "./components/navbar";
+import Navbar from "./components/Navbar";
 import Employees from "./pages/Employees";
 import AttendancePage from "./pages/Attendance";
 import Dashboard from "./pages/Dashboard"; // Import the new Dashboard
